@@ -7,7 +7,7 @@ import eyed3 # For manipulating ID3 tags
 import os # For setting the work directory
 import re # Regular Expressions
 
-folder = 'C:/Users/michael/Music/XV/Vizzy Zone'
+folder = 'C:Your/File/Path'
 pattern =  '^[0-9]* \- ' # This is the regex for what you want removed
 # pattern =  '^[0-9]{2} \- ' # This is the regex for what you want removed
 

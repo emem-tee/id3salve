@@ -1,5 +1,3 @@
-# import os
-
 # os.chdir("C:/seniorFD/Python/id3salve")
 
 from glob import glob # For isolating .mp3 files
